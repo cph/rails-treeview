@@ -1,0 +1,17 @@
+.node-selected {
+  background-color: azure;
+}
+body.dragging, body.dragging * {
+  cursor: move !important;
+}
+
+.dragged {
+  position: absolute;
+  opacity: 0.5;
+  z-index: 2000;
+}
+
+.placeholder
+{
+  border: dashed 2px crimson;
+}
