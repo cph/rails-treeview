@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in lsb-treeview.gemspec
+# Specify your gem's dependencies in rails-treeview.gemspec
 gemspec

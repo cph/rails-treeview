@@ -1,6 +1,6 @@
-require "lsb/treeview/version"
+require "treeview/version"
 
-module Lsb
+module Rails
   module Treeview
     class Engine < ::Rails::Engine
     end
